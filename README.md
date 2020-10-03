@@ -1,2 +1,2 @@
 # portfolio
-My Portfolio.
+My personal Portfolio live at https://binarybrain.netlify.app/
