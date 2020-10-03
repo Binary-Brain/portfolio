@@ -1,0 +1,19 @@
+{
+  "name": "BinaryBrain",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "9.5.3",
+    "next-fonts": "^1.4.0",
+    "next-images": "^1.5.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-page-scroller": "^2.0.7-beta"
+  }
+}
